@@ -6,16 +6,16 @@
 
 首先，总得买点什么设备来搞搞吧，一个二手的傻瓜式交换机（30元），一个斐讯K2路由器（40元），再来几段网线。大概网络是这个样子
 
- ![TIM图片20190605164511](https://github.com/sundidyu/idea/tree/master/imagsTIM图片20190605164511.png)
+ ![TIM图片20190605164511](https://github.com/sundidyu/idea/imags/imagsTIM图片20190605164511.png)
 
 K2支持多wan口扩展的固件比较方便的应该就是高恪了吧 [视频教程](http://v.youku.com/v_show/id_XMjk1MTYyMTE4MA==.html?spm=a2hzp.8244740.0.0
 )，
 
-![2](https://github.com/sundidyu/idea/tree/master/imags2.png)
+![2](https://github.com/sundidyu/idea/imags/imags2.png)
 
-![3](https://github.com/sundidyu/idea/tree/master/imags3.png)
+![3](https://github.com/sundidyu/idea/imags/imags3.png)
 
-![4](https://github.com/sundidyu/idea/tree/master/imags4.png)
+![4](https://github.com/sundidyu/idea/imags/imags4.png)
 
 交换机上插进网的线和四根短的网线，然后把四根网线插到路由器的四个wan口，简直不要太简单。在多线设置里边设置后负载均衡后就随便打开网页登陆上网账号就行。账号是学号，默认密码都是123456   真好。实测网络叠加了四次。也就1M emmmmmm ，勉勉强强。
 
@@ -33,21 +33,21 @@ K2支持多wan口扩展的固件比较方便的应该就是高恪了吧 [视频�
 
 虚拟机选择32位的linux,运行和存储至少1G.添加5个网卡吧，一个lan四个wan。五个网卡都采用桥接的方式。然后就可以进行安装了。安装完成后记得取消虚拟光驱。
 
-![11](https://github.com/sundidyu/idea/tree/master/imags11.png)
+![11](https://github.com/sundidyu/idea/imags/imags11.png)
 
-![22](https://github.com/sundidyu/idea/tree/master/imags22.png)
+![22](https://github.com/sundidyu/idea/imags/imags22.png)
 
-![33](https://github.com/sundidyu/idea/tree/master/imags33.png)
+![33](https://github.com/sundidyu/idea/imags/imags33.png)
 
-![44](https://github.com/sundidyu/idea/tree/master/imags44.png)
+![44](https://github.com/sundidyu/idea/imags/imags44.png)
 
-![55](https://github.com/sundidyu/idea/tree/master/imags55.png)
+![55](https://github.com/sundidyu/idea/imags/imags55.png)
 
-![66](https://github.com/sundidyu/idea/tree/master/imags66.png)
+![66](https://github.com/sundidyu/idea/imags/imags66.png)
 
-![77](https://github.com/sundidyu/idea/tree/master/imags77.png)
+![77](https://github.com/sundidyu/idea/imags/imags77.png)
 
-![88](https://github.com/sundidyu/idea/tree/master/imags88.png)
+![88](https://github.com/sundidyu/idea/imags/imags88.png)
 
 
 
@@ -57,15 +57,15 @@ K2支持多wan口扩展的固件比较方便的应该就是高恪了吧 [视频�
 
 然后每次设置一个网卡为默认的网关，打开浏览器随便输个网站就能登陆。将全部网卡登陆后。设置好多线负载后ok了。
 
-![111](https://github.com/sundidyu/idea/tree/master/imags111.png)
+![111](https://github.com/sundidyu/idea/imags/imags111.png)
 
-![222](https://github.com/sundidyu/idea/tree/master/imags222.png)
+![222](https://github.com/sundidyu/idea/imags/imags222.png)
 
-![333](https://github.com/sundidyu/idea/tree/master/imags333.png)
+![333](https://github.com/sundidyu/idea/imags/imags333.png)
 
-![444](https://github.com/sundidyu/idea/tree/master/imags444.png)
+![444](https://github.com/sundidyu/idea/imags/imags444.png)
 
-![555](https://github.com/sundidyu/idea/tree/master/imags555.png)
+![555](https://github.com/sundidyu/idea/imags/imags555.png)
 
 ---
 
